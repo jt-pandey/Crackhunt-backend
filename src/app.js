@@ -6,7 +6,7 @@ import cors from "cors"
 const app = express();
 
 app.use(cors({
-    origin: 'https://cr4ckhunt.vercel.app',
+    origin: 'https://testing-crackhunt.netlify.app/',
     credentials: true
 }))
 
